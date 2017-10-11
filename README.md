@@ -1,2 +1,2 @@
-#Blade Symphony Easy Cloud Server Setup
+# Blade Symphony Easy Cloud Server Setup
 Get your own server set up!
