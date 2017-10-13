@@ -25,6 +25,7 @@ Setup:
   - Vultr: .pub format
 - Clone this repository
 - Create a packaged version of the Blade Symphony game files (or ask me for one on Discord)
+  - TODO: I'll write some steps on how to do this yourself later on.
   - Upload this somewhere. Needs to be a place that your new server can download it from with a URL of some kind. (ex- AWS S3, Dropbox)
 - Open the setup_script.sh under the platform of your choice
 - Set values for the variables at the beginning of the file
