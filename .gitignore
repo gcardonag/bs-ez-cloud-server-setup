@@ -3,4 +3,3 @@ terraform.tfstate*
 terraform.tfvars
 *.pem
 *.pub
-aws
